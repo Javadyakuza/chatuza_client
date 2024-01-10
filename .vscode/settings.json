@@ -2,4 +2,10 @@
   "emmet.includeLanguages": {
     "rust": "html"
   }
+  // "rust-analyzer.linkedProjects": [
+  //   "./modules/Cargo.toml"
+  // ]
+  // "rust-analyzer.linkedProjects": [
+  //   "./modules/Cargo.toml"
+  // ]
 }
